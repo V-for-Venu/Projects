@@ -4,8 +4,8 @@
 * Descriptive Analysis is used to find answers for Common Retail Questions, Segment Proportions, Purchase Incidences and Revenue by Segment & Brand.
 * Linear, Logistic Regression models are used to predict our Business Objective Variables.
 * Using Microeconomic Formulas, Price Elasticity is calculated to answer the questions below.
-  i. Purchase Probability
- ii. Brand Choice
-iii. Units Purchase
+  1. Purchase Probability.
+  2. Brand Choice.
+  3. Units Purchased. 
 * Inferences are drawn by Calculating Cross-Brand Price Elasticity.
   
